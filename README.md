@@ -135,8 +135,12 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 ## Output:
-![output](bkcover/static/images/daou.png)
+![daou](https://user-images.githubusercontent.com/118704873/212825194-6d1d3001-2f1c-4598-b1e2-fcc6d883ad80.png)
+
+
 ### Validation:
-![valid](bkcover/static/images/dava.png)
+![dava](https://user-images.githubusercontent.com/118704873/212825223-4d459edc-b008-4c67-a013-bac3f296983c.png)
+
+
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
